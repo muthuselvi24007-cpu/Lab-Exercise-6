@@ -58,6 +58,7 @@ Emotional States: Hungry fi Curious fi Interested fi Satisfied fi Confident fi H
 Environment: Mobile phone, college environment, internet connection, and a user who is in a hurry
 
 Flow Diagram
+<img width="767" height="792" alt="image" src="https://github.com/user-attachments/assets/ea280924-d748-4fcb-ab90-923ebbdbe322" />
 
 Information Architecture (IA)
 Example: Zomato Mobile Application / Website
